@@ -1,1 +1,1 @@
-A new folder
+This is the folder where my coding journey starts
